@@ -1,0 +1,65 @@
+{
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 28499467,
+                "file_path": "results\\test_bora_1\\Drone\\Drone-28499467.onnx",
+                "reward": 209.03262762589887,
+                "creation_time": 1647299604.1624014,
+                "auxillary_file_paths": [
+                    "results\\test_bora_1\\Drone\\Drone-28499467.pt"
+                ]
+            },
+            {
+                "steps": 28999177,
+                "file_path": "results\\test_bora_1\\Drone\\Drone-28999177.onnx",
+                "reward": 188.84772534803912,
+                "creation_time": 1647300438.2416837,
+                "auxillary_file_paths": [
+                    "results\\test_bora_1\\Drone\\Drone-28999177.pt"
+                ]
+            },
+            {
+                "steps": 29499939,
+                "file_path": "results\\test_bora_1\\Drone\\Drone-29499939.onnx",
+                "reward": 182.91898702538532,
+                "creation_time": 1647301272.0184693,
+                "auxillary_file_paths": [
+                    "results\\test_bora_1\\Drone\\Drone-29499939.pt"
+                ]
+            },
+            {
+                "steps": 29999286,
+                "file_path": "results\\test_bora_1\\Drone\\Drone-29999286.onnx",
+                "reward": 164.27915603236147,
+                "creation_time": 1647302098.9422648,
+                "auxillary_file_paths": [
+                    "results\\test_bora_1\\Drone\\Drone-29999286.pt"
+                ]
+            },
+            {
+                "steps": 30000121,
+                "file_path": "results\\test_bora_1\\Drone\\Drone-30000121.onnx",
+                "reward": 168.7801884651184,
+                "creation_time": 1647302099.126264,
+                "auxillary_file_paths": [
+                    "results\\test_bora_1\\Drone\\Drone-30000121.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 30000121,
+            "file_path": "results\\test_bora_1\\Drone.onnx",
+            "reward": 168.7801884651184,
+            "creation_time": 1647302099.126264,
+            "auxillary_file_paths": [
+                "results\\test_bora_1\\Drone\\Drone-30000121.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

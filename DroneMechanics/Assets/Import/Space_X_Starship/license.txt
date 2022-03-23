@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space X Starship
+* source:	https://sketchfab.com/3d-models/space-x-starship-7976690a90d5465a8145db1bbcbad0e1
+* author:	Alive (https://sketchfab.com/bogdanantonalive)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space X Starship" (https://sketchfab.com/3d-models/space-x-starship-7976690a90d5465a8145db1bbcbad0e1) by Alive (https://sketchfab.com/bogdanantonalive) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

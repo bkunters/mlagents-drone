@@ -1,0 +1,65 @@
+{
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 16999995,
+                "file_path": "results\\bora_pid_model\\Drone\\Drone-16999995.onnx",
+                "reward": 997.2301940917969,
+                "creation_time": 1647588562.6593308,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model\\Drone\\Drone-16999995.pt"
+                ]
+            },
+            {
+                "steps": 17499780,
+                "file_path": "results\\bora_pid_model\\Drone\\Drone-17499780.onnx",
+                "reward": 996.1595426860608,
+                "creation_time": 1647589347.7277248,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model\\Drone\\Drone-17499780.pt"
+                ]
+            },
+            {
+                "steps": 17999875,
+                "file_path": "results\\bora_pid_model\\Drone\\Drone-17999875.onnx",
+                "reward": 996.2668294270833,
+                "creation_time": 1647590156.0280116,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model\\Drone\\Drone-17999875.pt"
+                ]
+            },
+            {
+                "steps": 18499005,
+                "file_path": "results\\bora_pid_model\\Drone\\Drone-18499005.onnx",
+                "reward": 996.4862837357955,
+                "creation_time": 1647590943.9408298,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model\\Drone\\Drone-18499005.pt"
+                ]
+            },
+            {
+                "steps": 18999565,
+                "file_path": "results\\bora_pid_model\\Drone\\Drone-18999565.onnx",
+                "reward": 996.0397567749023,
+                "creation_time": 1647591751.1989934,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model\\Drone\\Drone-18999565.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 83908,
+            "file_path": "results\\bora_pid_model\\Drone.onnx",
+            "reward": null,
+            "creation_time": 1647562316.6144307,
+            "auxillary_file_paths": [
+                "results\\bora_pid_model\\Drone\\Drone-83908.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

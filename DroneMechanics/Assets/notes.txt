@@ -1,0 +1,3 @@
+TODO(08.03.2022):
+1) multiple drones
+2) gaussian reward für das Zentrum der Checkpoints + trigger layer im checkpoint

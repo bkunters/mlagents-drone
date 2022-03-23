@@ -1,0 +1,65 @@
+{
+    "Drone": {
+        "checkpoints": [
+            {
+                "steps": 1499292,
+                "file_path": "results\\bora_pid_model_without_angular\\Drone\\Drone-1499292.onnx",
+                "reward": -0.5956582799553871,
+                "creation_time": 1647599471.5830638,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model_without_angular\\Drone\\Drone-1499292.pt"
+                ]
+            },
+            {
+                "steps": 1999180,
+                "file_path": "results\\bora_pid_model_without_angular\\Drone\\Drone-1999180.onnx",
+                "reward": -0.4692374989390373,
+                "creation_time": 1647600254.0219393,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model_without_angular\\Drone\\Drone-1999180.pt"
+                ]
+            },
+            {
+                "steps": 1999180,
+                "file_path": "results\\bora_pid_model_without_angular\\Drone\\Drone-1999180.onnx",
+                "reward": null,
+                "creation_time": 1647603751.4962602,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model_without_angular\\Drone\\Drone-1999180.pt"
+                ]
+            },
+            {
+                "steps": 2499080,
+                "file_path": "results\\bora_pid_model_without_angular\\Drone\\Drone-2499080.onnx",
+                "reward": -0.035922295848528546,
+                "creation_time": 1647604589.2090044,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model_without_angular\\Drone\\Drone-2499080.pt"
+                ]
+            },
+            {
+                "steps": 2757896,
+                "file_path": "results\\bora_pid_model_without_angular\\Drone\\Drone-2757896.onnx",
+                "reward": -0.09999997913837433,
+                "creation_time": 1647605132.8912544,
+                "auxillary_file_paths": [
+                    "results\\bora_pid_model_without_angular\\Drone\\Drone-2757896.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2757896,
+            "file_path": "results\\bora_pid_model_without_angular\\Drone.onnx",
+            "reward": -0.09999997913837433,
+            "creation_time": 1647605132.8912544,
+            "auxillary_file_paths": [
+                "results\\bora_pid_model_without_angular\\Drone\\Drone-2757896.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
